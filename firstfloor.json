@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"workadventure-map\/map.json"
+                 "value":"..\/workadventure-map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

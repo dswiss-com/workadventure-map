@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"workadventure-map\/firstfloor.json"
+                 "value":"..\/workadventure-map\/firstfloor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"workadventure-map\/rore.json"
+                 "value":"..\/workadventure-map\/rore.json"
                 }],
          "type":"tilelayer",
          "visible":true,
